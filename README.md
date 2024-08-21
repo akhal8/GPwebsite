@@ -1,0 +1,1 @@
+This project is about restaurant menu for staff members managing orders and inventory with different permissions according to staff members position. The TCPDF is used to convert the data into graph but the file is missing in the respository.
