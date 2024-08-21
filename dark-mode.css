@@ -1,0 +1,22 @@
+/* dark-mode.css */
+
+body.dark-mode {
+    background-color: #121212; /* Change this to your preferred dark background color */
+    color: #ffffff; /* Change this to your preferred dark text color */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    background-color: #121212 !important;; /* Change this to your preferred dark navbar background color */
+    color: #ffffff; /* Change this to your preferred dark navigation text color */
+}
+
+.footer.dark-mode {
+    background-color: #121212; /* Change this to your preferred dark footer background color */
+    color: #ffffff; /* Change this to your preferred dark footer text color */
+}
+.navbar.dark-mode {
+    background-color: #121212 !important;; /* Change this to your preferred dark navbar background color */
+    color: #ffffff !important; /* Change this to your preferred dark navbar text color */
+}
+
+/* Add more styles for dark mode as needed */
